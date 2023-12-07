@@ -1,12 +1,12 @@
 from setting import *
 
 text_map = ['wwwwwwwwwwww',
-            'w----------w',
-            'w----------w',
+            'w----www---w',
+            'w-w--------w',
             'w----www---w',
             'w-----w----w',
-            'w----------w',
-            'w----------w',
+            'w---w------w',
+            'w---w--w---w',
             'wwwwwwwwwwww'
             ]
 
